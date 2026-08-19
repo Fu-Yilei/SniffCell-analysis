@@ -1,0 +1,5 @@
+tissue	class	n_genes	fraction_with_ctdmr	median_ctdmr_count_per_mb	mean_ctdmr_count_per_mb	spearman_expression_vs_density_all_genes	spearman_p	mw_p_expressed_gt_nonexpressed
+Brain (cerebellum + frontal cortex)	Expressed	16968	0.6505775577557755	38.072395075788755	94.57147585773853	0.42623044100499363	0.0	0.0
+Brain (cerebellum + frontal cortex)	Non-expressed	37658	0.24552551914599818	0.0	104.57197126750779	0.42623044100499363	0.0	0.0
+PBMC/whole blood	Expressed	11501	0.6136857664550909	30.38497766704141	139.20227927713435	0.47126902953170724	0.0	0.0
+PBMC/whole blood	Non-expressed	43125	0.18750144927536233	0.0	83.93443884116354	0.47126902953170724	0.0	0.0

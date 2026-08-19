@@ -1,0 +1,2 @@
+doi	record_id	archive_filename	archive_bytes	sha256	md5	internal_path	role
+10.5281/zenodo.22003085	22003085	multi_region_brain_tr_figure_data.tar.zst	8402	cad2a8d1eba03da99bd127b15f4e9e793d030173b1920e9d27e14715e29d6d99	804dcc5ae1d00715fb5f21faaae4d3be	multi_region_brain_tr_figure_data/matched_blood_expansion/matched_blood_donor_locus_rows.tsv.gz	Figure 4g-h sanitized donor-locus source rows

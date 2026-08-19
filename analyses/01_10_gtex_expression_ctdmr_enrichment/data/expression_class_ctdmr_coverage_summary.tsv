@@ -1,0 +1,9 @@
+Tissue	Tissue label	Expression class	n_genes	n_with_ctdmr	pct_with_ctdmr
+Brain (cerebellum + frontal cortex)	"Brain
+(cerebellum + frontal cortex)"	Expressed	16968	11039	65.05775577557756
+Brain (cerebellum + frontal cortex)	"Brain
+(cerebellum + frontal cortex)"	Non-expressed	37658	9246	24.55255191459982
+PBMC/whole blood	"PBMC
+(whole blood)"	Expressed	11501	7058	61.36857664550909
+PBMC/whole blood	"PBMC
+(whole blood)"	Non-expressed	43125	8086	18.750144927536233

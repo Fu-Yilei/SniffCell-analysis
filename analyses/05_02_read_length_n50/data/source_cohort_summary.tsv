@@ -1,0 +1,4 @@
+cohort	sample_count	median_n50_bp	mean_n50_bp	min_n50_bp	max_n50_bp
+HBCC	155	25184.0	23874.98709677419	8451.0	31973.0
+brain_benchmark_bulk	4	14755.0	13801.0	10238.0	15456.0
+smaht_ont_brain	44	14506.0	15278.90909090909	1081.0	34162.0

@@ -1,0 +1,17 @@
+subset	change_cell	brain_region	n_loci	total_loci	fraction
+All exclusive loci	Neuron	Frontal Lobe	11	25	0.44
+All exclusive loci	Neuron	Temporal Lobe	10	25	0.4
+All exclusive loci	Neuron	Hippocampus	8	25	0.32
+All exclusive loci	Neuron	Cerebellum	12	25	0.48
+All exclusive loci	Oligodendrocyte	Frontal Lobe	15	43	0.3488372093023256
+All exclusive loci	Oligodendrocyte	Temporal Lobe	15	43	0.3488372093023256
+All exclusive loci	Oligodendrocyte	Hippocampus	19	43	0.4418604651162791
+All exclusive loci	Oligodendrocyte	Cerebellum	16	43	0.37209302325581395
+Recurrent exclusive loci	Neuron	Frontal Lobe	7	10	0.7
+Recurrent exclusive loci	Neuron	Temporal Lobe	6	10	0.6
+Recurrent exclusive loci	Neuron	Hippocampus	5	10	0.5
+Recurrent exclusive loci	Neuron	Cerebellum	7	10	0.7
+Recurrent exclusive loci	Oligodendrocyte	Frontal Lobe	8	17	0.47058823529411764
+Recurrent exclusive loci	Oligodendrocyte	Temporal Lobe	8	17	0.47058823529411764
+Recurrent exclusive loci	Oligodendrocyte	Hippocampus	10	17	0.5882352941176471
+Recurrent exclusive loci	Oligodendrocyte	Cerebellum	8	17	0.47058823529411764

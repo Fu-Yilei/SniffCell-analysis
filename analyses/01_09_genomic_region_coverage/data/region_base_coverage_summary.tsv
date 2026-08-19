@@ -1,0 +1,49 @@
+region_set	run_type	dataset	sample	group	coverage	n_regions	total_region_bases	bases_ge_5x	pct_region_bases_ge_5x
+GENCODE genes	original	brain	b1	Neuron	115.7x	78691	2478270656	1586731032	64.02573617851044
+GENCODE genes	original	brain	b1	Oligodendrocyte	115.7x	78691	2478270656	1641300106	66.22763748690409
+GENCODE genes	original	brain	b2	Neuron	109.0x	78691	2478270656	1757641266	70.92208680858464
+GENCODE genes	original	brain	b2	Oligodendrocyte	109.0x	78691	2478270656	1802901396	72.74836554413854
+GENCODE genes	original	brain	b3	Neuron	108.6x	78691	2478270656	1795635803	72.45519365097142
+GENCODE genes	original	brain	b3	Oligodendrocyte	108.6x	78691	2478270656	1852156152	74.73583030634084
+GENCODE genes	original	brain	b4	Neuron	114.5x	78691	2478270656	1865464466	75.2728303296345
+GENCODE genes	original	brain	b4	Oligodendrocyte	114.5x	78691	2478270656	1813100012	73.15988702083071
+GENCODE genes	original	pbmc	pbmc1	Monocyte	142.2x	78691	2478270656	607433328	24.510370831748247
+GENCODE genes	original	pbmc	pbmc1	T-cell_NK-cell_B-cell	142.2x	78691	2478270656	1003992560	40.51182051360253
+GENCODE genes	original	pbmc	pbmc2	Monocyte	105.6x	78691	2478270656	471448886	19.023300980407527
+GENCODE genes	original	pbmc	pbmc2	T-cell_NK-cell_B-cell	105.6x	78691	2478270656	838913166	33.85074846320579
+Medically relevant genes	original	brain	b1	Neuron	115.7x	4991	475526140	316308026	66.51748440159358
+Medically relevant genes	original	brain	b1	Oligodendrocyte	115.7x	4991	475526140	327768296	68.92750333346554
+Medically relevant genes	original	brain	b2	Neuron	109.0x	4991	475526140	348373284	73.26059593695521
+Medically relevant genes	original	brain	b2	Oligodendrocyte	109.0x	4991	475526140	357554428	75.19132975528959
+Medically relevant genes	original	brain	b3	Neuron	108.6x	4991	475526140	355360856	74.73003608171783
+Medically relevant genes	original	brain	b3	Oligodendrocyte	108.6x	4991	475526140	366106611	76.9897972380656
+Medically relevant genes	original	brain	b4	Neuron	114.5x	4991	475526140	367789668	77.34373298595109
+Medically relevant genes	original	brain	b4	Oligodendrocyte	114.5x	4991	475526140	358741321	75.44092549780754
+Medically relevant genes	original	pbmc	pbmc1	Monocyte	142.2x	4991	475526140	125266946	26.342809671830032
+Medically relevant genes	original	pbmc	pbmc1	T-cell_NK-cell_B-cell	142.2x	4991	475526140	204842138	43.07694588566677
+Medically relevant genes	original	pbmc	pbmc2	Monocyte	105.6x	4991	475526140	97594426	20.523461864788338
+Medically relevant genes	original	pbmc	pbmc2	T-cell_NK-cell_B-cell	105.6x	4991	475526140	172681206	36.313714741317895
+cCREs	original	brain	b1	Neuron	115.7x	2348854	627448729	452482242	72.1146160772604
+cCREs	original	brain	b1	Oligodendrocyte	115.7x	2348854	627448729	465046846	74.11710702501081
+cCREs	original	brain	b2	Neuron	109.0x	2348854	627448729	489625337	78.03431808370115
+cCREs	original	brain	b2	Oligodendrocyte	109.0x	2348854	627448729	500165870	79.7142215583323
+cCREs	original	brain	b3	Neuron	108.6x	2348854	627448729	498430704	79.43767848480255
+cCREs	original	brain	b3	Oligodendrocyte	108.6x	2348854	627448729	511071769	81.45235544815328
+cCREs	original	brain	b4	Neuron	114.5x	2348854	627448729	513238722	81.79771482173167
+cCREs	original	brain	b4	Oligodendrocyte	114.5x	2348854	627448729	502731266	80.12308301289109
+cCREs	original	pbmc	pbmc1	Monocyte	142.2x	2348854	627448729	200443766	31.945839832914857
+cCREs	original	pbmc	pbmc1	T-cell_NK-cell_B-cell	142.2x	2348854	627448729	312623397	49.82453267508332
+cCREs	original	pbmc	pbmc2	Monocyte	105.6x	2348854	627448729	160488324	25.577918415067824
+cCREs	original	pbmc	pbmc2	T-cell_NK-cell_B-cell	105.6x	2348854	627448729	269928505	43.02000984689221
+All other genome	original	brain	b1	Neuron	115.7x	542823	882028876	372926849	42.280571435622704
+All other genome	original	brain	b1	Oligodendrocyte	115.7x	542823	882028876	385410024	43.69585106417763
+All other genome	original	brain	b2	Neuron	109.0x	542823	882028876	423210636	47.98149442898738
+All other genome	original	brain	b2	Oligodendrocyte	109.0x	542823	882028876	432444905	49.02842942751911
+All other genome	original	brain	b3	Neuron	108.6x	542823	882028876	434775031	49.29260739985116
+All other genome	original	brain	b3	Oligodendrocyte	108.6x	542823	882028876	447576310	50.74395206081665
+All other genome	original	brain	b4	Neuron	114.5x	542823	882028876	456401008	51.7444519582826
+All other genome	original	brain	b4	Oligodendrocyte	114.5x	542823	882028876	435457102	49.36993718105891
+All other genome	original	pbmc	pbmc1	Monocyte	142.2x	542823	882028876	81783584	9.272211627683717
+All other genome	original	pbmc	pbmc1	T-cell_NK-cell_B-cell	142.2x	542823	882028876	153166875	17.365290317320632
+All other genome	original	pbmc	pbmc2	Monocyte	105.6x	542823	882028876	61008674	6.9168567673968075
+All other genome	original	pbmc	pbmc2	T-cell_NK-cell_B-cell	105.6x	542823	882028876	120764485	13.691670225998362

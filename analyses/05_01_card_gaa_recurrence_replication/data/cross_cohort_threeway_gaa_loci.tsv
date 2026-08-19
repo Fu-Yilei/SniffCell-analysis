@@ -1,0 +1,7 @@
+site_key	motif	gene	card_neuron_donors	card_oligodendrocyte_donors	smaht_neuron_donors	smaht_oligodendrocyte_donors	benchmark_neuron_donors	benchmark_oligodendrocyte_donors
+chr10:48654648-48655296	CTTT		6	1	3	2	2	0
+chr13:102161539-102161869	GAA	FGF14	1	0	1	1	2	0
+chr19:33757354-33757634	AAAG		1	0	2	2	1	0
+chr1:51906786-51906926	AAAGAAAGG		3	4	1	1	1	1
+chr2:109199301-109199876	AATGG	SH3RF3	17	0	1	1	1	0
+chr9:28189170-28189834	AGGA		12	4	4	1	1	0

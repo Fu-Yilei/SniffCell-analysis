@@ -1,0 +1,9 @@
+donor	cell_type	expanded_hap	expanded_consensus_length_bp	expanded_consensus_interruptions	older_recurrent_pdf_all_FANS_reads	older_recurrent_pdf_expanded_FANS_reads	expanded_reads_mapped_to_poa	reads_with_double_AGG_signature	reads_with_at_least_one_AAAGAAGAAG	reads_with_at_least_two_AAAGAAGAAG
+bcontrol1	Neuron	hap2	444	AGG,AGG	51	25	20	19	1	1
+bcontrol1	Oligodendrocyte	hap1	439	AGG,AGG	54	19	19	19	1	0
+bcontrol2	Neuron	hap1	862	AAAGAAGAAG,AAAGAAGAAG	51	29	27	0	27	25
+bcontrol2	Oligodendrocyte	hap2	726	AAAGAAGAAG,AAAGAAGAAG	30	16	16	0	16	14
+bmsa	Neuron	hap1	1145	none	27	15	13	0	2	1
+bmsa	Oligodendrocyte	hap1	904	none	34	15	15	0	2	0
+bparkinsons	Neuron	hap2	762	AAAGAAGAAG,AAAGAAGAAG	44	16	15	0	14	10
+bparkinsons	Oligodendrocyte	hap1	672	AAAGAAGAAG	49	31	29	0	28	24

@@ -1,0 +1,3 @@
+comparison	hbcc_n	other_n	hbcc_median_n50_bp	other_median_n50_bp	median_difference_bp	hbcc_fraction_above_other_median	mann_whitney_u	one_sided_pvalue
+HBCC > brain_benchmark_bulk	155	4	25184.0	14755.0	10429.0	0.9032258064516129	571.0	0.0005942972814956007
+HBCC > smaht_ont_brain	155	44	25184.0	14506.0	10678.0	0.9096774193548387	5711.0	4.4431761840068234e-12

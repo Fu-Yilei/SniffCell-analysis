@@ -1,0 +1,17 @@
+donor	source	cell_type	read_count	minimum_bp	median_bp	maximum_bp
+bcontrol1	SniffCell	Neuron	21	328.0	340.0	377.0
+bcontrol1	SniffCell	Oligodendrocyte	9	333.0	359.0	364.0
+bcontrol1	FANS	Neuron	23	318.0	335.0	380.0
+bcontrol1	FANS	Oligodendrocyte	41	325.0	357.0	370.0
+bcontrol2	SniffCell	Neuron	19	431.0	524.0	599.0
+bcontrol2	SniffCell	Oligodendrocyte	20	441.0	498.0	609.0
+bcontrol2	FANS	Neuron	29	467.0	579.0	731.0
+bcontrol2	FANS	Oligodendrocyte	31	468.0	507.0	556.0
+bmsa	SniffCell	Neuron	35	352.0	375.0	531.0
+bmsa	SniffCell	Oligodendrocyte	28	351.0	377.0	571.0
+bmsa	FANS	Neuron	44	375.0	411.0	742.0
+bmsa	FANS	Oligodendrocyte	27	354.0	379.0	427.0
+bparkinsons	SniffCell	Neuron	20	367.0	401.5	449.0
+bparkinsons	SniffCell	Oligodendrocyte	24	364.0	380.5	477.0
+bparkinsons	FANS	Neuron	38	356.0	418.0	458.0
+bparkinsons	FANS	Oligodendrocyte	39	359.0	421.0	445.0

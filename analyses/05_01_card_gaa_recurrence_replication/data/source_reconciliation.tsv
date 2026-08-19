@@ -1,0 +1,6 @@
+check	observed	expected	status
+Panel A motif families	5	5	PASS
+Panel B directional comparisons	6	6	PASS
+Panel C three-way GAA loci	6	6	PASS
+Panel C SH3RF3 CARD Neuron donors	17	17	PASS
+Panel B CARD to SMaHT replicated GAA loci	11	11	PASS

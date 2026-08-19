@@ -1,0 +1,79 @@
+donor	tissue_name	source	cell_type	n_reads	min_read_length	median_read_length	max_read_length
+SMHT018	Blood	Blood-ONT	Blood	55	274	323.0	348
+SMHT018	Cerebellum	SniffCell-ONT	Neuron	14	275	335.5	406
+SMHT018	Cerebellum	SniffCell-ONT	Oligodendrocyte	17	287	307.0	432
+SMHT018	Cerebellum	SniffCell-PB	Neuron	5	289	318.0	390
+SMHT018	Cerebellum	SniffCell-PB	Oligodendrocyte	2	346	375.0	404
+SMHT018	Frontal Lobe	SniffCell-ONT	Oligodendrocyte	39	259	357.0	525
+SMHT018	Frontal Lobe	SniffCell-PB	Neuron	3	276	326.0	474
+SMHT018	Frontal Lobe	SniffCell-PB	Oligodendrocyte	5	276	348.0	509
+SMHT018	Hippocampus	SniffCell-ONT	Oligodendrocyte	23	279	335.0	433
+SMHT018	Temporal Lobe	SniffCell-ONT	Neuron	8	292	410.0	648
+SMHT018	Temporal Lobe	SniffCell-ONT	Oligodendrocyte	15	288	332.0	453
+SMHT018	Temporal Lobe	SniffCell-PB	Neuron	5	324	356.0	431
+SMHT018	Temporal Lobe	SniffCell-PB	Oligodendrocyte	3	291	378.0	463
+SMHT020	Blood	Blood-ONT	Blood	63	258	282.0	339
+SMHT020	Cerebellum	SniffCell-ONT	Neuron	46	265	306.5	455
+SMHT020	Cerebellum	SniffCell-ONT	Oligodendrocyte	11	254	287.0	707
+SMHT020	Cerebellum	SniffCell-PB	Neuron	11	277	327.0	385
+SMHT020	Frontal Lobe	SniffCell-ONT	Neuron	9	286	366.0	464
+SMHT020	Frontal Lobe	SniffCell-ONT	Oligodendrocyte	33	278	431.0	758
+SMHT020	Hippocampus	SniffCell-ONT	Neuron	3	258	264.0	318
+SMHT020	Hippocampus	SniffCell-ONT	Oligodendrocyte	48	261	359.0	575
+SMHT020	Temporal Lobe	SniffCell-ONT	Neuron	17	255	354.0	1014
+SMHT020	Temporal Lobe	SniffCell-ONT	Oligodendrocyte	46	274	373.0	516
+SMHT022	Blood	Blood-ONT	Blood	40	261	297.0	365
+SMHT022	Blood	Blood-PB	Blood	6	263	284.5	372
+SMHT022	Cerebellum	SniffCell-ONT	Neuron	30	256	284.0	416
+SMHT022	Cerebellum	SniffCell-ONT	Oligodendrocyte	12	275	292.0	588
+SMHT022	Cerebellum	SniffCell-PB	Oligodendrocyte	4	270	336.5	389
+SMHT022	Frontal Lobe	SniffCell-ONT	Neuron	20	270	409.0	798
+SMHT022	Frontal Lobe	SniffCell-ONT	Oligodendrocyte	24	263	322.5	644
+SMHT022	Frontal Lobe	SniffCell-PB	Neuron	2	443	471.0	499
+SMHT022	Frontal Lobe	SniffCell-PB	Oligodendrocyte	3	275	312.0	371
+SMHT022	Hippocampus	SniffCell-ONT	Oligodendrocyte	20	246	356.0	674
+SMHT022	Hippocampus	SniffCell-PB	Neuron	1	366	366.0	366
+SMHT022	Hippocampus	SniffCell-PB	Oligodendrocyte	4	274	342.0	390
+SMHT022	Temporal Lobe	SniffCell-ONT	Neuron	10	282	415.5	1149
+SMHT022	Temporal Lobe	SniffCell-ONT	Oligodendrocyte	27	299	433.0	743
+SMHT022	Temporal Lobe	SniffCell-PB	Neuron	3	290	371.0	390
+SMHT022	Temporal Lobe	SniffCell-PB	Oligodendrocyte	1	343	343.0	343
+SMHT023	Blood	Blood-ONT	Blood	131	105	257.0	288
+SMHT023	Cerebellum	SniffCell-ONT	Neuron	86	102	259.5	309
+SMHT023	Cerebellum	SniffCell-ONT	Oligodendrocyte	51	103	111.0	312
+SMHT023	Cerebellum	SniffCell-PB	Neuron	2	110	110.0	110
+SMHT023	Cerebellum	SniffCell-PB	Oligodendrocyte	5	110	269.0	312
+SMHT023	Frontal Lobe	SniffCell-ONT	Neuron	7	108	276.0	426
+SMHT023	Frontal Lobe	SniffCell-ONT	Oligodendrocyte	35	106	304.0	407
+SMHT023	Hippocampus	SniffCell-ONT	Neuron	23	109	278.0	487
+SMHT023	Hippocampus	SniffCell-ONT	Oligodendrocyte	71	99	265.0	358
+SMHT023	Temporal Lobe	SniffCell-ONT	Neuron	38	106	113.5	437
+SMHT023	Temporal Lobe	SniffCell-ONT	Oligodendrocyte	60	104	273.5	408
+SMHT024	Blood	Blood-PB	Blood	13	252	270.0	315
+SMHT024	Cerebellum	SniffCell-ONT	Neuron	20	244	267.5	292
+SMHT024	Cerebellum	SniffCell-ONT	Oligodendrocyte	13	143	278.0	290
+SMHT024	Cerebellum	SniffCell-PB	Neuron	1	290	290.0	290
+SMHT024	Cerebellum	SniffCell-PB	Oligodendrocyte	3	271	276.0	319
+SMHT024	Frontal Lobe	SniffCell-ONT	Oligodendrocyte	17	215	362.0	540
+SMHT024	Frontal Lobe	SniffCell-PB	Neuron	6	252	309.5	469
+SMHT024	Frontal Lobe	SniffCell-PB	Oligodendrocyte	8	252	304.0	663
+SMHT024	Hippocampus	SniffCell-PB	Oligodendrocyte	4	286	354.5	531
+SMHT024	Temporal Lobe	SniffCell-ONT	Neuron	3	269	273.0	277
+SMHT024	Temporal Lobe	SniffCell-ONT	Oligodendrocyte	23	245	321.0	444
+SMHT024	Temporal Lobe	SniffCell-PB	Neuron	7	264	276.0	306
+SMHT024	Temporal Lobe	SniffCell-PB	Oligodendrocyte	6	254	326.0	461
+SMHT031	Blood	Blood-ONT	Blood	61	107	275.0	301
+SMHT031	Blood	Blood-PB	Blood	39	110	272.0	305
+SMHT031	Cerebellum	SniffCell-ONT	Neuron	20	110	116.0	318
+SMHT031	Cerebellum	SniffCell-ONT	Oligodendrocyte	17	105	287.0	332
+SMHT031	Cerebellum	SniffCell-PB	Neuron	14	111	113.0	306
+SMHT031	Cerebellum	SniffCell-PB	Oligodendrocyte	8	109	111.5	284
+SMHT031	Frontal Lobe	SniffCell-ONT	Neuron	8	112	281.5	394
+SMHT031	Frontal Lobe	SniffCell-ONT	Oligodendrocyte	27	108	115.0	546
+SMHT031	Hippocampus	SniffCell-ONT	Oligodendrocyte	29	105	309.0	404
+SMHT031	Hippocampus	SniffCell-PB	Neuron	10	110	112.5	316
+SMHT031	Hippocampus	SniffCell-PB	Oligodendrocyte	12	109	112.5	450
+SMHT031	Temporal Lobe	SniffCell-ONT	Neuron	24	108	112.5	557
+SMHT031	Temporal Lobe	SniffCell-ONT	Oligodendrocyte	28	105	282.5	558
+SMHT031	Temporal Lobe	SniffCell-PB	Neuron	13	109	294.0	478
+SMHT031	Temporal Lobe	SniffCell-PB	Oligodendrocyte	12	109	112.0	412

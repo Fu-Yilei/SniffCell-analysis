@@ -1,0 +1,19 @@
+scope	scope_label	source_cohort	target_cohort	source_all_loci	replicated_all_loci	all_replication_fraction	source_gaa_element_loci	replicated_gaa_element_loci	gaa_replication_fraction	gaa_vs_non_gaa_recovery_odds_ratio	gaa_vs_non_gaa_fisher_p
+any_neuron	Neuron-directed	CARD	SMaHT	2217	42	0.018944519621109608	132	11	0.08333333333333333	6.023460410557185	1.925511270493019e-05
+any_neuron	Neuron-directed	CARD	4-brain benchmark	2217	52	0.02345511953089761	132	8	0.06060606060606061	2.9926686217008798	0.01037896747232579
+any_neuron	Neuron-directed	SMaHT	CARD	129	42	0.32558139534883723	21	11	0.5238095238095238	2.732258064516129	0.043185682341134804
+any_neuron	Neuron-directed	SMaHT	4-brain benchmark	129	33	0.2558139534883721	21	11	0.5238095238095238	4.3	0.004778404660230681
+any_neuron	Neuron-directed	4-brain benchmark	CARD	195	52	0.26666666666666666	25	8	0.32	1.3475935828877006	0.6281818633562133
+any_neuron	Neuron-directed	4-brain benchmark	SMaHT	195	33	0.16923076923076924	25	11	0.44	5.285714285714286	0.0005562938054642933
+recurrent_neuron_ge2	Recurrent Neuron (≥2 donors)	CARD	SMaHT	596	15	0.025167785234899327	41	4	0.0975609756097561	5.346437346437346	0.015147108210694779
+recurrent_neuron_ge2	Recurrent Neuron (≥2 donors)	CARD	4-brain benchmark	596	6	0.010067114093959731	41	1	0.024390243902439025	2.75	0.34916980475124937
+recurrent_neuron_ge2	Recurrent Neuron (≥2 donors)	SMaHT	CARD	58	15	0.25862068965517243	10	4	0.4	2.242424242424242	0.26510011350609924
+recurrent_neuron_ge2	Recurrent Neuron (≥2 donors)	SMaHT	4-brain benchmark	58	6	0.10344827586206896	10	1	0.1	0.9555555555555556	1.0
+recurrent_neuron_ge2	Recurrent Neuron (≥2 donors)	4-brain benchmark	CARD	26	6	0.23076923076923078	5	1	0.2	0.8	1.0
+recurrent_neuron_ge2	Recurrent Neuron (≥2 donors)	4-brain benchmark	SMaHT	26	6	0.23076923076923078	5	1	0.2	0.8	1.0
+strict_neuron_only	Strict Neuron-only	CARD	SMaHT	1536	3	0.001953125	95	1	0.010526315789473684	7.654255319148936	0.17441401522068725
+strict_neuron_only	Strict Neuron-only	CARD	4-brain benchmark	1536	21	0.013671875	95	4	0.042105263157894736	3.6819650937297994	0.036460625497192714
+strict_neuron_only	Strict Neuron-only	SMaHT	CARD	28	3	0.10714285714285714	4	1	0.25	3.6666666666666665	0.3821733821733822
+strict_neuron_only	Strict Neuron-only	SMaHT	4-brain benchmark	28	2	0.07142857142857142	4	0	0.0	0.0	1.0
+strict_neuron_only	Strict Neuron-only	4-brain benchmark	CARD	158	21	0.13291139240506328	22	4	0.18181818181818182	1.5555555555555556	0.4984816043049287
+strict_neuron_only	Strict Neuron-only	4-brain benchmark	SMaHT	158	2	0.012658227848101266	22	0	0.0	0.0	1.0

@@ -1,0 +1,25 @@
+catalog	catalog_label	tissue	sample	group	gene_class	n_genes	n_genes_covered_ge5_80	frac_genes_covered_ge5_80	total_gene_bases	bases_ge_5x	pct_bases_ge_5x
+brain_cereb	Brain cerebellum	brain	b1	Neuron	GTEx tissue-specific	2809	1715	0.6105375578497686	191599663	134225711	70.0552959740853
+brain_cereb	Brain cerebellum	brain	b1	Neuron	Other GTEx genes	51817	29141	0.562383001717583	1746344965	1120622275	64.16958261164626
+brain_cereb	Brain cerebellum	brain	b1	Oligodendrocyte	GTEx tissue-specific	2809	1830	0.6514773940904236	191599663	139115307	72.6072816735591
+brain_cereb	Brain cerebellum	brain	b1	Oligodendrocyte	Other GTEx genes	51817	30374	0.5861782812590463	1746344965	1160081787	66.42913114248307
+brain_cereb	Brain cerebellum	brain	b2	Neuron	GTEx tissue-specific	2809	1923	0.6845852616589534	191599663	145935278	76.16677175470815
+brain_cereb	Brain cerebellum	brain	b2	Neuron	Other GTEx genes	51817	33232	0.6413339251596967	1746344965	1241943710	71.11674582575958
+brain_cereb	Brain cerebellum	brain	b2	Oligodendrocyte	GTEx tissue-specific	2809	2028	0.7219651121395514	191599663	150407636	78.50099193546076
+brain_cereb	Brain cerebellum	brain	b2	Oligodendrocyte	Other GTEx genes	51817	34333	0.6625817781809059	1746344965	1273394908	72.91771863642073
+brain_cereb	Brain cerebellum	brain	b3	Neuron	GTEx tissue-specific	2809	2004	0.7134211463154148	191599663	149132463	77.83545162081
+brain_cereb	Brain cerebellum	brain	b3	Neuron	Other GTEx genes	51817	34419	0.6642414651562228	1746344965	1268501317	72.63749960191858
+brain_cereb	Brain cerebellum	brain	b3	Oligodendrocyte	GTEx tissue-specific	2809	2100	0.7475970096119615	191599663	153406255	80.0660359199066
+brain_cereb	Brain cerebellum	brain	b3	Oligodendrocyte	Other GTEx genes	51817	35814	0.6911631317907251	1746344965	1308393925	74.9218482729728
+brain_cereb	Brain cerebellum	brain	b4	Neuron	GTEx tissue-specific	2809	2089	0.7436810252758989	191599663	153106251	79.90945735640464
+brain_cereb	Brain cerebellum	brain	b4	Neuron	Other GTEx genes	51817	36050	0.695717621629967	1746344965	1317970636	75.47023425580754
+brain_cereb	Brain cerebellum	brain	b4	Oligodendrocyte	GTEx tissue-specific	2809	2082	0.741189035243859	191599663	151258099	78.94486693329935
+brain_cereb	Brain cerebellum	brain	b4	Oligodendrocyte	Other GTEx genes	51817	34819	0.6719609394600228	1746344965	1280595010	73.33001415330332
+pbmc	Blood/PBMC	pbmc	pbmc1	Monocyte	GTEx tissue-specific	720	437	0.6069444444444444	22321127	14426288	64.63064342584494
+pbmc	Blood/PBMC	pbmc	pbmc1	Monocyte	Other GTEx genes	53906	13447	0.2494527510852224	1915623501	479258896	25.018428503816942
+pbmc	Blood/PBMC	pbmc	pbmc1	T-cell_NK-cell_B-cell	GTEx tissue-specific	720	582	0.8083333333333333	22321127	18320643	82.07758954106573
+pbmc	Blood/PBMC	pbmc	pbmc1	T-cell_NK-cell_B-cell	Other GTEx genes	53906	23739	0.4403776945052499	1915623501	794370922	41.46800880158966
+pbmc	Blood/PBMC	pbmc	pbmc2	Monocyte	GTEx tissue-specific	720	351	0.4875	22321127	12363000	55.38698830036674
+pbmc	Blood/PBMC	pbmc	pbmc2	Monocyte	Other GTEx genes	53906	9704	0.1800170667458168	1915623501	370599644	19.346162949375927
+pbmc	Blood/PBMC	pbmc	pbmc2	T-cell_NK-cell_B-cell	GTEx tissue-specific	720	528	0.7333333333333333	22321127	16724859	74.9283806323937
+pbmc	Blood/PBMC	pbmc	pbmc2	T-cell_NK-cell_B-cell	Other GTEx genes	53906	18985	0.35218714057804323	1915623501	662826144	34.601065587992075

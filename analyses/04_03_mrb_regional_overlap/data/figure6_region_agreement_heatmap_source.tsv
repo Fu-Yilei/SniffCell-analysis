@@ -1,0 +1,49 @@
+group	group_title	cell_type	n_group_loci	region_a	region_b	n_region_a	n_region_b	n_shared	n_union	jaccard_percent
+All	All specific loci	all	68	Frontal Lobe	Frontal Lobe	26	26	26	26	100.0
+All	All specific loci	all	68	Frontal Lobe	Temporal Lobe	26	25	10	41	24.390243902439025
+All	All specific loci	all	68	Frontal Lobe	Hippocampus	26	27	9	44	20.454545454545453
+All	All specific loci	all	68	Frontal Lobe	Cerebellum	26	28	9	45	20.0
+All	All specific loci	all	68	Temporal Lobe	Frontal Lobe	25	26	10	41	24.390243902439025
+All	All specific loci	all	68	Temporal Lobe	Temporal Lobe	25	25	25	25	100.0
+All	All specific loci	all	68	Temporal Lobe	Hippocampus	25	27	11	41	26.829268292682926
+All	All specific loci	all	68	Temporal Lobe	Cerebellum	25	28	8	45	17.77777777777778
+All	All specific loci	all	68	Hippocampus	Frontal Lobe	27	26	9	44	20.454545454545453
+All	All specific loci	all	68	Hippocampus	Temporal Lobe	27	25	11	41	26.829268292682926
+All	All specific loci	all	68	Hippocampus	Hippocampus	27	27	27	27	100.0
+All	All specific loci	all	68	Hippocampus	Cerebellum	27	28	6	49	12.244897959183673
+All	All specific loci	all	68	Cerebellum	Frontal Lobe	28	26	9	45	20.0
+All	All specific loci	all	68	Cerebellum	Temporal Lobe	28	25	8	45	17.77777777777778
+All	All specific loci	all	68	Cerebellum	Hippocampus	28	27	6	49	12.244897959183673
+All	All specific loci	all	68	Cerebellum	Cerebellum	28	28	28	28	100.0
+Neuron	Neuron-specific loci	Neuron	25	Frontal Lobe	Frontal Lobe	11	11	11	11	100.0
+Neuron	Neuron-specific loci	Neuron	25	Frontal Lobe	Temporal Lobe	11	10	5	16	31.25
+Neuron	Neuron-specific loci	Neuron	25	Frontal Lobe	Hippocampus	11	8	3	16	18.75
+Neuron	Neuron-specific loci	Neuron	25	Frontal Lobe	Cerebellum	11	12	5	18	27.77777777777778
+Neuron	Neuron-specific loci	Neuron	25	Temporal Lobe	Frontal Lobe	10	11	5	16	31.25
+Neuron	Neuron-specific loci	Neuron	25	Temporal Lobe	Temporal Lobe	10	10	10	10	100.0
+Neuron	Neuron-specific loci	Neuron	25	Temporal Lobe	Hippocampus	10	8	4	14	28.571428571428573
+Neuron	Neuron-specific loci	Neuron	25	Temporal Lobe	Cerebellum	10	12	3	19	15.789473684210526
+Neuron	Neuron-specific loci	Neuron	25	Hippocampus	Frontal Lobe	8	11	3	16	18.75
+Neuron	Neuron-specific loci	Neuron	25	Hippocampus	Temporal Lobe	8	10	4	14	28.571428571428573
+Neuron	Neuron-specific loci	Neuron	25	Hippocampus	Hippocampus	8	8	8	8	100.0
+Neuron	Neuron-specific loci	Neuron	25	Hippocampus	Cerebellum	8	12	3	17	17.647058823529413
+Neuron	Neuron-specific loci	Neuron	25	Cerebellum	Frontal Lobe	12	11	5	18	27.77777777777778
+Neuron	Neuron-specific loci	Neuron	25	Cerebellum	Temporal Lobe	12	10	3	19	15.789473684210526
+Neuron	Neuron-specific loci	Neuron	25	Cerebellum	Hippocampus	12	8	3	17	17.647058823529413
+Neuron	Neuron-specific loci	Neuron	25	Cerebellum	Cerebellum	12	12	12	12	100.0
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Frontal Lobe	Frontal Lobe	15	15	15	15	100.0
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Frontal Lobe	Temporal Lobe	15	15	5	25	20.0
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Frontal Lobe	Hippocampus	15	19	6	28	21.428571428571427
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Frontal Lobe	Cerebellum	15	16	4	27	14.814814814814815
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Temporal Lobe	Frontal Lobe	15	15	5	25	20.0
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Temporal Lobe	Temporal Lobe	15	15	15	15	100.0
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Temporal Lobe	Hippocampus	15	19	7	27	25.925925925925927
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Temporal Lobe	Cerebellum	15	16	5	26	19.23076923076923
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Hippocampus	Frontal Lobe	19	15	6	28	21.428571428571427
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Hippocampus	Temporal Lobe	19	15	7	27	25.925925925925927
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Hippocampus	Hippocampus	19	19	19	19	100.0
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Hippocampus	Cerebellum	19	16	3	32	9.375
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Cerebellum	Frontal Lobe	16	15	4	27	14.814814814814815
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Cerebellum	Temporal Lobe	16	15	5	26	19.23076923076923
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Cerebellum	Hippocampus	16	19	3	32	9.375
+Oligo	Oligodendrocyte-specific loci	Oligodendrocyte	43	Cerebellum	Cerebellum	16	16	16	16	100.0

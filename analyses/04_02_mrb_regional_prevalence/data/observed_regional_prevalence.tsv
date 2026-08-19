@@ -1,0 +1,9 @@
+cell_type	brain_region	n_specific_loci_total	n_sampled_donors	n_distinct_loci_observed	n_locus_donor_calls	n_locus_donor_opportunities	donor_locus_prevalence	donor_locus_prevalence_percent	calls_per_sampled_donor
+Neuron	Cerebellum	25	12	12	19	300	0.06333333333333334	6.333333333333333	1.5833333333333333
+Neuron	Frontal Lobe	25	9	11	18	225	0.08	8.0	2.0
+Neuron	Temporal Lobe	25	8	10	15	200	0.075	7.5	1.875
+Neuron	Hippocampus	25	8	8	10	200	0.05	5.0	1.25
+Oligodendrocyte	Cerebellum	43	12	16	27	516	0.05232558139534884	5.232558139534884	2.25
+Oligodendrocyte	Frontal Lobe	43	9	15	21	387	0.05426356589147287	5.426356589147287	2.3333333333333335
+Oligodendrocyte	Temporal Lobe	43	8	15	20	344	0.05813953488372093	5.813953488372093	2.5
+Oligodendrocyte	Hippocampus	43	8	19	28	344	0.08139534883720931	8.13953488372093	3.5

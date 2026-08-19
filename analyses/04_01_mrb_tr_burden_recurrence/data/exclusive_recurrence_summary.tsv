@@ -1,0 +1,3 @@
+change_cell	total_events	recurrent_events	nonrecurrent_events	recurrent_fraction	median_donors	mean_donors	maximum_donors
+Neuron	25	10	15	0.4	1.0	1.88	6
+Oligodendrocyte	43	17	26	0.3953488372093023	1.0	1.7209302325581395	8

@@ -1,0 +1,53 @@
+donor	brain_region	has_sample	neuron_specific_loci	oligodendrocyte_specific_loci	total_specific_loci
+SMHT001	Cerebellum	True	3	2	5
+SMHT001	Frontal Lobe	False	0	0	0
+SMHT001	Hippocampus	True	1	4	5
+SMHT001	Temporal Lobe	False	0	0	0
+SMHT005	Cerebellum	True	0	0	0
+SMHT005	Frontal Lobe	True	0	0	0
+SMHT005	Hippocampus	False	0	0	0
+SMHT005	Temporal Lobe	False	0	0	0
+SMHT007	Cerebellum	True	0	1	1
+SMHT007	Frontal Lobe	False	0	0	0
+SMHT007	Hippocampus	False	0	0	0
+SMHT007	Temporal Lobe	False	0	0	0
+SMHT018	Cerebellum	True	1	3	4
+SMHT018	Frontal Lobe	True	3	5	8
+SMHT018	Hippocampus	True	0	2	2
+SMHT018	Temporal Lobe	True	2	0	2
+SMHT020	Cerebellum	True	2	5	7
+SMHT020	Frontal Lobe	True	3	3	6
+SMHT020	Hippocampus	True	1	2	3
+SMHT020	Temporal Lobe	True	3	6	9
+SMHT022	Cerebellum	True	1	2	3
+SMHT022	Frontal Lobe	True	2	2	4
+SMHT022	Hippocampus	True	3	2	5
+SMHT022	Temporal Lobe	True	2	4	6
+SMHT023	Cerebellum	True	5	6	11
+SMHT023	Frontal Lobe	True	2	2	4
+SMHT023	Hippocampus	True	3	8	11
+SMHT023	Temporal Lobe	True	1	4	5
+SMHT024	Cerebellum	True	4	3	7
+SMHT024	Frontal Lobe	True	1	3	4
+SMHT024	Hippocampus	False	0	0	0
+SMHT024	Temporal Lobe	True	1	0	1
+SMHT027	Cerebellum	True	0	1	1
+SMHT027	Frontal Lobe	False	0	0	0
+SMHT027	Hippocampus	False	0	0	0
+SMHT027	Temporal Lobe	True	0	2	2
+SMHT031	Cerebellum	True	1	0	1
+SMHT031	Frontal Lobe	True	2	2	4
+SMHT031	Hippocampus	True	0	2	2
+SMHT031	Temporal Lobe	True	3	1	4
+SMHT039	Cerebellum	True	0	3	3
+SMHT039	Frontal Lobe	True	1	2	3
+SMHT039	Hippocampus	True	0	4	4
+SMHT039	Temporal Lobe	False	0	0	0
+SMHT040	Cerebellum	True	2	1	3
+SMHT040	Frontal Lobe	False	0	0	0
+SMHT040	Hippocampus	True	2	4	6
+SMHT040	Temporal Lobe	True	3	3	6
+SMHT043	Cerebellum	False	0	0	0
+SMHT043	Frontal Lobe	True	4	2	6
+SMHT043	Hippocampus	False	0	0	0
+SMHT043	Temporal Lobe	False	0	0	0
