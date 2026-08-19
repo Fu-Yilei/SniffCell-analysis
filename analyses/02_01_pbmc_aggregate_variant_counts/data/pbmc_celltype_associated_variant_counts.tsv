@@ -1,0 +1,9 @@
+sample_id	variant_class	cell_type_assignment	count
+pbmc1	TR	Lymphocyte group	5
+pbmc1	TR	Monocyte	1
+pbmc1	SV	Lymphocyte group	1
+pbmc1	SV	Monocyte	0
+pbmc2	TR	Lymphocyte group	3
+pbmc2	TR	Monocyte	1
+pbmc2	SV	Lymphocyte group	2
+pbmc2	SV	Monocyte	0

@@ -1,0 +1,13 @@
+donor	source	cell_type	read_count	minimum_bp	median_bp	maximum_bp
+pbmc1	SniffCell	Lymphocytes	57	162.0	387.0	490.0
+pbmc1	SniffCell	Monocyte	24	164.0	381.5	428.0
+pbmc1	FANS	T-cell	35	161.0	394.0	495.0
+pbmc1	FANS	NK-cell	42	165.0	389.5	453.0
+pbmc1	FANS	B-cell	28	164.0	349.5	430.0
+pbmc1	FANS	Monocyte	37	161.0	168.0	435.0
+pbmc2	SniffCell	Lymphocytes	24	149.0	163.0	176.0
+pbmc2	SniffCell	Monocyte	10	152.0	173.0	176.0
+pbmc2	FANS	T-cell	29	137.0	154.0	176.0
+pbmc2	FANS	NK-cell	23	143.0	156.0	174.0
+pbmc2	FANS	B-cell	40	138.0	165.5	181.0
+pbmc2	FANS	Monocyte	35	148.0	153.0	180.0

@@ -1,0 +1,3 @@
+dataset	atlas_role	max_gap_bp	data_rows	bytes	sha256	public_location
+brain	exact_figure_3_input	3000	152961	41872337	b0500774579703c58b37bf1bfc1e4a9ce7b4c772bb93f3466da1a18eb2943631	github_and_zenodo:brain_cereb.maxgap3000_dt04.ctdmr.tsv
+pbmc	exact_figure_3_input	2000	78349	29462615	458278d40469f45deb5484445cf4e346e8a939b32ff9702d52e3e5e0d0c6ff8a	analysis_01_02_zenodo

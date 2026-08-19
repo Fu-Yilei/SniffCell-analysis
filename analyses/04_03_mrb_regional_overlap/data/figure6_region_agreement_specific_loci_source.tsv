@@ -1,0 +1,19 @@
+group	region_pair	region_a	region_b	n_total_group_loci	n_region_a	n_region_b	n_shared	n_union	jaccard_percent	n_seen_in_any_lobe	n_seen_in_cerebellum	n_lobe_seen_also_cerebellum	percent_lobe_seen_also_cerebellum	label
+All	Frontal–Temporal	Frontal Lobe	Temporal Lobe	68	26	25	10	41	24.390243902439025	53	28	13	24.528301886792452	13/53
+All	Frontal–Hippocampus	Frontal Lobe	Hippocampus	68	26	27	9	44	20.454545454545453	53	28	13	24.528301886792452	13/53
+All	Frontal–Cerebellum	Frontal Lobe	Cerebellum	68	26	28	9	45	20.0	53	28	13	24.528301886792452	13/53
+All	Temporal–Hippocampus	Temporal Lobe	Hippocampus	68	25	27	11	41	26.829268292682926	53	28	13	24.528301886792452	13/53
+All	Temporal–Cerebellum	Temporal Lobe	Cerebellum	68	25	28	8	45	17.77777777777778	53	28	13	24.528301886792452	13/53
+All	Hippocampus–Cerebellum	Hippocampus	Cerebellum	68	27	28	6	49	12.244897959183673	53	28	13	24.528301886792452	13/53
+Neuron	Frontal–Temporal	Frontal Lobe	Temporal Lobe	25	11	10	5	16	31.25	19	12	6	31.57894736842105	6/19
+Neuron	Frontal–Hippocampus	Frontal Lobe	Hippocampus	25	11	8	3	16	18.75	19	12	6	31.57894736842105	6/19
+Neuron	Frontal–Cerebellum	Frontal Lobe	Cerebellum	25	11	12	5	18	27.77777777777778	19	12	6	31.57894736842105	6/19
+Neuron	Temporal–Hippocampus	Temporal Lobe	Hippocampus	25	10	8	4	14	28.571428571428573	19	12	6	31.57894736842105	6/19
+Neuron	Temporal–Cerebellum	Temporal Lobe	Cerebellum	25	10	12	3	19	15.789473684210526	19	12	6	31.57894736842105	6/19
+Neuron	Hippocampus–Cerebellum	Hippocampus	Cerebellum	25	8	12	3	17	17.647058823529413	19	12	6	31.57894736842105	6/19
+Oligodendrocyte	Frontal–Temporal	Frontal Lobe	Temporal Lobe	43	15	15	5	25	20.0	34	16	7	20.58823529411765	7/34
+Oligodendrocyte	Frontal–Hippocampus	Frontal Lobe	Hippocampus	43	15	19	6	28	21.428571428571427	34	16	7	20.58823529411765	7/34
+Oligodendrocyte	Frontal–Cerebellum	Frontal Lobe	Cerebellum	43	15	16	4	27	14.814814814814815	34	16	7	20.58823529411765	7/34
+Oligodendrocyte	Temporal–Hippocampus	Temporal Lobe	Hippocampus	43	15	19	7	27	25.925925925925927	34	16	7	20.58823529411765	7/34
+Oligodendrocyte	Temporal–Cerebellum	Temporal Lobe	Cerebellum	43	15	16	5	26	19.23076923076923	34	16	7	20.58823529411765	7/34
+Oligodendrocyte	Hippocampus–Cerebellum	Hippocampus	Cerebellum	43	19	16	3	32	9.375	34	16	7	20.58823529411765	7/34

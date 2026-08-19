@@ -1,0 +1,6 @@
+motif_family	family_label	>=1	>=2	>=3	>=5
+pure_GAA	Pure GAA repeat	29 / 26	8 / 2	4 / 0	2 / 0
+GAAA_family	Pure GAAA repeat	92 / 115	17 / 12	8 / 4	2 / 1
+GGAA_family	Pure GGAA repeat	72 / 93	18 / 23	8 / 10	3 / 5
+other_4bp_GAA	Other 4 bp GAA	3 / 7	0 / 0	0 / 0	0 / 0
+other_5_10bp_GAA	Other 5-10 bp GAA	63 / 80	15 / 17	8 / 4	3 / 0

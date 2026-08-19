@@ -1,0 +1,7 @@
+site	expected_cell_type	minimum_bp	maximum_bp
+TRB	T cell	46122	497995
+TRA_TRD	T cell	358629	912986
+TRG	T cell	47476	111189
+IGH	B cell	76495	1011322
+IGK	B cell	71417	1360121
+IGL	B cell	12295	889917

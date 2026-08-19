@@ -1,0 +1,21 @@
+motif_family	family_label	min_recurrent_donors	n_neuron_recurrent_loci	n_oligodendrocyte_recurrent_loci	neuron_minus_oligodendrocyte_loci	neuron_enrichment_one_sided_permutation_p	two_sided_permutation_p	two_sided_fdr_bh_across_20_tests	n_donors	n_permutations	random_seed	permutation_unit
+pure_GAA	Pure GAA repeat	1	28	26	2	0.4128858711412886	0.8281617183828162	0.9743079039797837	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+pure_GAA	Pure GAA repeat	2	7	2	5	0.01928980710192898	0.03789962100378996	0.25266414002526644	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+pure_GAA	Pure GAA repeat	3	4	0	4	0.002879971200287997	0.006149938500614994	0.12299877001229986	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+pure_GAA	Pure GAA repeat	5	2	0	2	0.06816931830681693	0.13796862031379686	0.3065969340306597	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+GAAA_family	Pure GAAA repeat	1	92	115	-23	0.9434405655943441	0.12973870261297388	0.3065969340306597	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+GAAA_family	Pure GAAA repeat	2	17	12	5	0.2022679773202268	0.4038759612403876	0.6213476326775194	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+GAAA_family	Pure GAAA repeat	3	8	4	4	0.046339536604633955	0.09163908360916391	0.3065969340306597	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+GAAA_family	Pure GAAA repeat	5	2	1	1	0.3305866941330587	0.6602333976660233	0.8803111968880311	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+GGAA_family	Pure GGAA repeat	1	72	92	-20	0.968770312296877	0.07759922400775993	0.3065969340306597	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+GGAA_family	Pure GGAA repeat	2	18	23	-5	0.8678613213867862	0.3586464135358646	0.5977440225597744	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+GGAA_family	Pure GGAA repeat	3	8	10	-2	0.7804021959780402	0.6416935830641693	0.8803111968880311	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+GGAA_family	Pure GGAA repeat	5	3	5	-2	0.98020019799802	0.2164378356216438	0.42766845058822134	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+other_4bp_GAA	Other 4 bp GAA	1	3	7	-4	0.9363006369936301	0.23521764782352175	0.42766845058822134	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+other_4bp_GAA	Other 4 bp GAA	2	0	0	0	0.7488625113748862	1.0	1.0	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+other_4bp_GAA	Other 4 bp GAA	3	0	0	0	1.0	1.0	1.0	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+other_4bp_GAA	Other 4 bp GAA	5	0	0	0	1.0	1.0	1.0	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+other_5_10bp_GAA	Other 5-10 bp GAA	1	62	80	-18	0.95970040299597	0.0984490155098449	0.3065969340306597	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+other_5_10bp_GAA	Other 5-10 bp GAA	2	15	17	-2	0.6989430105698943	0.7549024509754902	0.9436280637193628	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+other_5_10bp_GAA	Other 5-10 bp GAA	3	8	4	4	0.06332936670633293	0.12615873841261588	0.3065969340306597	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor
+other_5_10bp_GAA	Other 5-10 bp GAA	5	3	0	3	0.017659823401765983	0.03557964420355796	0.25266414002526644	155	100000	20260727	swap all Neuron and Oligodendrocyte labels within donor

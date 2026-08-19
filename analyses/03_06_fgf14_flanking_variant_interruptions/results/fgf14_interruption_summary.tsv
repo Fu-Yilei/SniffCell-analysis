@@ -1,0 +1,17 @@
+evidence_source	donor	cell_type	expanded_allele	interruption_motifs	supporting_reads	total_reads
+SniffCell TRGT consensus	bcontrol1	Neuron	2	AGG,AGG	NA	30
+SniffCell TRGT consensus	bcontrol1	Oligodendrocyte	2	AGG,AGG	NA	28
+SniffCell TRGT consensus	bcontrol2	Neuron	2	AAAGAAGAAG	NA	40
+SniffCell TRGT consensus	bcontrol2	Oligodendrocyte	2	AAAGAAGAAG,AAAGAAGAAG	NA	3
+SniffCell TRGT consensus	bmsa	Neuron	2	none	NA	21
+SniffCell TRGT consensus	bmsa	Oligodendrocyte	2	none	NA	6
+SniffCell TRGT consensus	bparkinsons	Neuron	2	AAAGAAGAAG,AAAGAAGAAG	NA	22
+SniffCell TRGT consensus	bparkinsons	Oligodendrocyte	2	AAAGAAGAAG,AAAGAAGAAG	NA	13
+FANS consensus and reads	bcontrol1	Neuron	hap2	AGG,AGG	19	20
+FANS consensus and reads	bcontrol1	Oligodendrocyte	hap1	AGG,AGG	19	19
+FANS consensus and reads	bcontrol2	Neuron	hap1	AAAGAAGAAG,AAAGAAGAAG	27	27
+FANS consensus and reads	bcontrol2	Oligodendrocyte	hap2	AAAGAAGAAG,AAAGAAGAAG	16	16
+FANS consensus and reads	bmsa	Neuron	hap1	none	2	13
+FANS consensus and reads	bmsa	Oligodendrocyte	hap1	none	2	15
+FANS consensus and reads	bparkinsons	Neuron	hap2	AAAGAAGAAG,AAAGAAGAAG	14	15
+FANS consensus and reads	bparkinsons	Oligodendrocyte	hap1	AAAGAAGAAG	28	29

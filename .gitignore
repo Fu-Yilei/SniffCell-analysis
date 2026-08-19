@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+local.paths.yaml
+local.paths.yml
+
+# Large public inputs are downloaded from Zenodo, not committed to Git.
+analyses/*/data/sniffcell_find_inputs/*
+analyses/*/data/sniffcell_find_atlases/*/*
+!analyses/*/data/sniffcell_find_inputs/.gitkeep
+!analyses/*/data/sniffcell_find_atlases/*/.gitkeep
+
+# Directory-preserving Zenodo package shared by analyses 1.4-1.6.
+analyses/shared_data/*/data/*
+!analyses/shared_data/*/data/.gitkeep

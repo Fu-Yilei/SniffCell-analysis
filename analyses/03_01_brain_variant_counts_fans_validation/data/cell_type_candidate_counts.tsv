@@ -1,0 +1,5 @@
+source	tissue	display_tissue	category	count	total	percent
+figure13_full_depth_sitecov15_v2_tr_matched	pbmc	PBMC	Lymphocyte group	11	13	84.6
+figure13_full_depth_sitecov15_v2_tr_matched	pbmc	PBMC	Monocyte	2	13	15.4
+figure13_full_depth_sitecov15_v2_tr_matched	brain	Brain	Neuron	56	109	51.4
+figure13_full_depth_sitecov15_v2_tr_matched	brain	Brain	Oligodendrocyte	53	109	48.6

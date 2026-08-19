@@ -1,0 +1,17 @@
+sample	display_sample	cell_type	allele_index	genotype	allele_length_bp	allele_length_range_bp	motif_count	support_depth	main_repeat_block_start_in_alt	main_repeat_block_end_in_alt	interruption_count	interruption_motifs	double_AGG_consensus_signature
+b1	bcontrol1	Neuron	1	2|1	209	195-223	14	34	43	67	0	none	False
+b1	bcontrol1	Neuron	2	2|1	443	414-484	96	30	26	302	2	AGG,AGG	True
+b1	bcontrol1	Oligodendrocyte	1	2|1	210	206-213	14	23	43	67	0	none	False
+b1	bcontrol1	Oligodendrocyte	2	2|1	438	399-454	94	28	26	296	2	AGG,AGG	True
+b4	bcontrol2	Neuron	1	2|1	213	187-222	15	34	43	70	0	none	False
+b4	bcontrol2	Neuron	2	2|1	734	515-1022	194	40	26	592	1	AAAGAAGAAG	False
+b4	bcontrol2	Oligodendrocyte	1	2|1	212	209-226	15	12	43	70	0	none	False
+b4	bcontrol2	Oligodendrocyte	2	2|1	732	725-764	194	3	24	591	2	AAAGAAGAAG,AAAGAAGAAG	False
+b2	bmsa	Neuron	1	1|2	233	229-240	22	33	43	91	0	none	False
+b2	bmsa	Neuron	2	1|2	915	855-2426	255	21	26	773	0	none	False
+b2	bmsa	Oligodendrocyte	1	1|2	233	229-237	22	16	43	91	0	none	False
+b2	bmsa	Oligodendrocyte	2	1|2	888	765-915	246	6	26	746	0	none	False
+b3	bparkinsons	Neuron	1	2|1	233	228-244	22	29	43	91	0	none	False
+b3	bparkinsons	Neuron	2	2|1	678	519-842	175	22	27	536	2	AAAGAAGAAG,AAAGAAGAAG	False
+b3	bparkinsons	Oligodendrocyte	1	2|1	234	225-239	22	31	43	91	0	none	False
+b3	bparkinsons	Oligodendrocyte	2	2|1	673	648-724	174	13	27	533	2	AAAGAAGAAG,AAAGAAGAAG	False

@@ -1,0 +1,10 @@
+scope	sample_id	metric	manuscript_reported_count	validated_source_count	difference	status
+bulk_germline	pbmc1	small_variant	4126045	4126045	0	match
+bulk_germline	pbmc1	sv	24377	24377	0	match
+bulk_germline	pbmc1	tr	613802	616479	2677	discrepancy
+bulk_germline	pbmc2	small_variant	4081291	4081291	0	match
+bulk_germline	pbmc2	sv	24751	24751	0	match
+bulk_germline	pbmc2	tr	616454	616405	-49	discrepancy
+celltype_associated	combined	tr	12	10	-2	discrepancy
+celltype_associated	combined	lymphocyte_tr	10	8	-2	discrepancy
+celltype_associated	combined	monocyte_tr	2	2	0	match

@@ -1,0 +1,11 @@
+canonical_motif	change_cell	n_loci
+AAAAGAGAAAG	Neuron	1
+AAAG	Neuron	5
+AAAG	Oligodendrocyte	2
+AAAGAAGGGAGGGAGGGAGG	Oligodendrocyte	1
+AAAGAGGG	Neuron	1
+AAG	Neuron	2
+AAGAGG	Oligodendrocyte	1
+AAGG	Neuron	1
+AAGGAAGGG	Oligodendrocyte	1
+AAGGAAGGGAAGGGAAGGGAGGGAGGGAGGGGAGGGAGGG	Neuron	1
