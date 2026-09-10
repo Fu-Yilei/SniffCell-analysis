@@ -1,0 +1,5 @@
+donor	table	rows	exact_historical_values
+bcontrol1	deconv_read_summary.tsv	111	True
+bcontrol1	deconv_reads_classification.tsv	202	True
+bcontrol1	deconv_blocks_classification.tsv	5	True
+bcontrol1	deconv_summary.tsv	2	True

@@ -1,0 +1,17 @@
+mode	donor	sample	truth	prediction	reads
+legacy	bcontrol1	bcontrol1_neuron	Neuron	Neuron	4117929
+legacy	bcontrol1	bcontrol1_neuron	Neuron	Oligodendrocyte	707397
+legacy	bcontrol1	bcontrol1_neuron	Neuron	Ambiguous	215403
+legacy	bcontrol1	bcontrol1_neuron	Neuron	No_evidence	18556851
+dual	bcontrol1	bcontrol1_neuron	Neuron	Neuron	7069635
+dual	bcontrol1	bcontrol1_neuron	Neuron	Oligodendrocyte	993478
+dual	bcontrol1	bcontrol1_neuron	Neuron	Ambiguous	578577
+dual	bcontrol1	bcontrol1_neuron	Neuron	No_evidence	14955890
+legacy	bcontrol1	bcontrol1_oligodendrocyte	Oligodendrocyte	Oligodendrocyte	4384417
+legacy	bcontrol1	bcontrol1_oligodendrocyte	Oligodendrocyte	Neuron	562369
+legacy	bcontrol1	bcontrol1_oligodendrocyte	Oligodendrocyte	Ambiguous	197810
+legacy	bcontrol1	bcontrol1_oligodendrocyte	Oligodendrocyte	No_evidence	17631696
+dual	bcontrol1	bcontrol1_oligodendrocyte	Oligodendrocyte	Oligodendrocyte	7321632
+dual	bcontrol1	bcontrol1_oligodendrocyte	Oligodendrocyte	Neuron	851705
+dual	bcontrol1	bcontrol1_oligodendrocyte	Oligodendrocyte	Ambiguous	558531
+dual	bcontrol1	bcontrol1_oligodendrocyte	Oligodendrocyte	No_evidence	14044424

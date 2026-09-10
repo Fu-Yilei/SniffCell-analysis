@@ -1,0 +1,4 @@
+donor	mode	selected_ctdmrs	control_reads	control_sha256
+bcontrol1	legacy	5	112	f4f127ed17288aa212707ecd56437176e5a5f6bb9eed455aeda4f40973d6817f
+bcontrol1	dual	29	112	f4f127ed17288aa212707ecd56437176e5a5f6bb9eed455aeda4f40973d6817f
+bcontrol1	baseline_legacy	5	112	f4f127ed17288aa212707ecd56437176e5a5f6bb9eed455aeda4f40973d6817f

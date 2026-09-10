@@ -1,3 +1,16 @@
+# 5hmC atlas update
+
+The [held-out validation blog](analyses/06_06_heldout_validation/BLOG_UPDATE.md)
+compares the original paper backbone with a channel-aware integrated atlas
+on identical bcontrol1 FANS reads. It includes bar plots, aggregate tables,
+and the detailed implementation record. Precision improves from 87.01% to
+88.64%, and recall from 18.33% to 31.03%, across the same 46,373,872 controls.
+This is one held-out donor, with other folds and bulk benchmarking deferred.
+
+The [four-donor atlas download](https://github.com/Fu-Yilei/SniffCell/tree/5hmC_compatitible_atlas/atlases/5hmc)
+is a separate distributable build that includes bcontrol1; its training
+membership differs from the benchmark atlas.
+
 # SniffCell paper analyses
 
 This repository contains figure-reproduction analyses for the SniffCell paper.

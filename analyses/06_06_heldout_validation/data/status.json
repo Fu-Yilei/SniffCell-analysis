@@ -1,0 +1,10 @@
+{
+  "status": "quick_validation_complete",
+  "heldout_donor": "bcontrol1",
+  "backbone": "brain_cereb.maxgap3000_dt04.ctdmr.tsv",
+  "deferred": [
+    "other donor folds",
+    "bulk benchmarking",
+    "single-channel ablations"
+  ]
+}
