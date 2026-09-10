@@ -1,5 +1,7 @@
 # 5hmC atlas update
 
+The [v0.9.8a1 alpha](https://github.com/Fu-Yilei/SniffCell/releases/tag/v0.9.8a1) is now published on GitHub and PyPI; install it explicitly with `pip install sniffcell==0.9.8a1`.
+
 The [held-out validation blog](analyses/06_06_heldout_validation/BLOG_UPDATE.md)
 compares the original paper backbone with a channel-aware integrated atlas
 on identical bcontrol1 FANS reads. It includes bar plots, aggregate tables,

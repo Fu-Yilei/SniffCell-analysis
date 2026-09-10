@@ -29,7 +29,7 @@ text+='## Backward compatibility and remaining scope\n\n'
 if par.exists():
  f=pd.read_csv(par,sep='\t');text+=f'The paper backbone passed exact comparison of all historical columns in {len(f)} FGF14 result tables against pre-5hmC code. Added provenance columns are excluded from that comparison. This regional check does not establish genome-wide parity.\n\n'
 else:text+='Exact historical-column compatibility on the FGF14 control is pending.\n\n'
-text+='Other donor folds, single-channel ablations, and bulk/FANS checks are deferred to keep this first test small. One held-out donor cannot establish performance across donors. No tagged package release has been made.\n'
+text+='Other donor folds, single-channel ablations, and bulk/FANS checks are deferred to keep this first test small. One held-out donor cannot establish performance across donors. The [v0.9.8a1 alpha](https://github.com/Fu-Yilei/SniffCell/releases/tag/v0.9.8a1) is now published on GitHub and PyPI; install it explicitly with `pip install sniffcell==0.9.8a1`.\n'
 text+='\n## Benchmark plots\n\n![FGF14 precision and recall](results/fixed_fgf14_precision_recall.png)\n\n![Genome-wide precision and recall](results/genomewide_control_precision_recall.png)\n\n![Genome-wide read outcomes](results/genomewide_read_outcomes.png)\n\n'
 text+='\n'+(P/'IMPLEMENTATION.md').read_text()+'\n'
 (P/'BLOG_UPDATE.md').write_text(text.rstrip()+'\n')

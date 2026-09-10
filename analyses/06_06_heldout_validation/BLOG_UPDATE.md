@@ -28,7 +28,7 @@ Both atlases use the same FANS BAMs and frozen unique primary-read identities. R
 
 The paper backbone passed exact comparison of all historical columns in 4 FGF14 result tables against pre-5hmC code. Added provenance columns are excluded from that comparison. This regional check does not establish genome-wide parity.
 
-Other donor folds, single-channel ablations, and bulk/FANS checks are deferred to keep this first test small. One held-out donor cannot establish performance across donors. No tagged package release has been made.
+Other donor folds, single-channel ablations, and bulk/FANS checks are deferred to keep this first test small. One held-out donor cannot establish performance across donors. The [v0.9.8a1 alpha](https://github.com/Fu-Yilei/SniffCell/releases/tag/v0.9.8a1) is now published on GitHub and PyPI; install it explicitly with `pip install sniffcell==0.9.8a1`.
 
 ## Benchmark plots
 
@@ -114,4 +114,4 @@ The held-out atlas uses three donors. The distributable build has now been rebui
 
 ### Merge and packaging validation
 
-The 5hmC software branch incorporates the current main-branch precomputed tissue atlases, CLI update, and v0.9.7 packaging changes. An older main-branch revert also removed MDB discovery during the merge; the separate-assay discovery and donor-filtering implementation was restored. The merged source passes 273 tests and 3 subtests. Wheel and source distributions build and pass metadata checks. No PyPI prerelease tag has been published as part of this update. The workflow now supports prerelease tags without moving Docker `latest`.
+The 5hmC software branch incorporates the current main-branch precomputed tissue atlases, CLI update, and v0.9.7 packaging changes. An older main-branch revert also removed MDB discovery during the merge; the separate-assay discovery and donor-filtering implementation was restored. The merged source passes 273 tests and 3 subtests. Wheel and source distributions build and pass metadata checks. The [v0.9.8a1 alpha](https://github.com/Fu-Yilei/SniffCell/releases/tag/v0.9.8a1) is now published on GitHub and PyPI; install it explicitly with `pip install sniffcell==0.9.8a1`. The workflow now supports prerelease tags without moving Docker `latest`.
