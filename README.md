@@ -13,6 +13,11 @@ The [four-donor atlas download](https://github.com/Fu-Yilei/SniffCell/tree/5hmC_
 is a separate distributable build that includes bcontrol1; its training
 membership differs from the benchmark atlas.
 
+The [new visualization blog](analyses/06_07_assay_visualization/BLOG_UPDATE.md)
+shows the bmsa FGF14 example with proportional m/h ctDMR boxes, native haplotype
+filtering and an explicitly disclosed one-read display exclusion. It documents
+the development-branch `viz`/`report` update; this is not a new benchmark.
+
 # SniffCell paper analyses
 
 This repository contains figure-reproduction analyses for the SniffCell paper.

@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-10",
+  "purpose": "Selected software visualization, not an accuracy benchmark",
+  "sample": "bmsa bulk",
+  "atlas": "brain_cereb.paper_backbone_plus_5mc_5hmc.four_donors.ctdmr.tsv.gz",
+  "scoring_read_count": 98,
+  "displayed_read_count": 37,
+  "display_haplotype": "HP2",
+  "original_support_count": 10,
+  "displayed_support_count": 9,
+  "display_exclusion_count": 1,
+  "original_support_predictions": {
+    "Neuron": 7,
+    "Oligodendrocyte": 1,
+    "Ambiguous": 2
+  },
+  "displayed_support_predictions": {
+    "Neuron": 7,
+    "Ambiguous": 2
+  },
+  "exclusion": "One borderline expansion-support read with an unchanged Oligodendrocyte prediction was omitted only from the illustration",
+  "displayed_assay_rows": 14,
+  "displayed_intervals": 11,
+  "source_branch": "5hmC_compatitible_atlas",
+  "legacy_validation": {
+    "extraction": "exact equality",
+    "PNG": "byte-identical against pre-change branch"
+  },
+  "tests": {
+    "passed": 280,
+    "subtests_passed": 3
+  },
+  "raw_inputs_included": false,
+  "sequencing_read_ids_included": false,
+  "results_sha256": {
+    "FGF14_bmsa_5hmc_viz.png": "6ca27a33dd9fa8ade3baf454282532e6680b385b970a5038edea4d3bd73d572e",
+    "FGF14_bmsa_5hmc_viz.pdf": "ffba4ba6df992bbccf5b8d827fd3c3450a5c77b8167888b8a7e21063aba9d3cd"
+  },
+  "source_commit": "a5c05e60bbcb5341c02a94f67670506258c55da2",
+  "source_repository": "https://github.com/Fu-Yilei/SniffCell"
+}

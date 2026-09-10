@@ -115,3 +115,9 @@ The held-out atlas uses three donors. The distributable build has now been rebui
 ### Merge and packaging validation
 
 The 5hmC software branch incorporates the current main-branch precomputed tissue atlases, CLI update, and v0.9.7 packaging changes. An older main-branch revert also removed MDB discovery during the merge; the separate-assay discovery and donor-filtering implementation was restored. The merged source passes 273 tests and 3 subtests. Wheel and source distributions build and pass metadata checks. The [v0.9.8a1 alpha](https://github.com/Fu-Yilei/SniffCell/releases/tag/v0.9.8a1) is now published on GitHub and PyPI; install it explicitly with `pip install sniffcell==0.9.8a1`. The workflow now supports prerelease tags without moving Docker `latest`.
+
+## Follow-up: visualizing the new atlas
+
+The [bmsa FGF14 visualization update](../06_07_assay_visualization/BLOG_UPDATE.md)
+adds proportional m/h ctDMR boxes to `viz` and `report`. Its selected bulk-read
+illustration has an explicit exclusion and does not change this FANS benchmark.
