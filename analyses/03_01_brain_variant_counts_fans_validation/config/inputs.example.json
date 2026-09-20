@@ -1,0 +1,22 @@
+{
+  "brain_v2_decisions": "brain_v2_decisions.tsv",
+  "runs": [
+    {
+      "sample": "b1", "tissue": "brain", "coverage": "full",
+      "sv_assignment": "b1/full/sv_assignment.tsv",
+      "shared_sv_vcf": "b1/full/shared.both_samples.AD_logic.vcf.gz"
+    },
+    {
+      "sample": "b1", "tissue": "brain", "coverage": "30x",
+      "tr_changes": "b1/30x/tr_changes.bed.tsv",
+      "sv_assignment": "b1/30x/sv_assignment.tsv",
+      "shared_sv_vcf": "b1/30x/shared.both_samples.AD_logic.vcf.gz"
+    },
+    {
+      "sample": "pbmc1", "tissue": "pbmc", "coverage": "full",
+      "tr_changes": "pbmc1/full/tr_changes.bed.tsv",
+      "sv_assignment": "pbmc1/full/sv_assignment.tsv",
+      "shared_sv_vcf": "pbmc1/full/shared.both_samples.AD_logic.vcf.gz"
+    }
+  ]
+}

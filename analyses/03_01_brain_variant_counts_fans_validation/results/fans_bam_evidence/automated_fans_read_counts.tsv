@@ -1,0 +1,11 @@
+tissue	sample	variant_class	group	read_locus_observations
+brain	b1	SV	changed	143
+brain	b1	SV	contrast	154
+brain	b1	TR	changed	403
+brain	b1	TR	contrast	402
+brain	b2	SV	changed	82
+brain	b2	SV	contrast	97
+brain	b2	TR	changed	354
+brain	b2	TR	contrast	450
+pbmc	pbmc1	TR	changed	195
+pbmc	pbmc1	TR	contrast	399

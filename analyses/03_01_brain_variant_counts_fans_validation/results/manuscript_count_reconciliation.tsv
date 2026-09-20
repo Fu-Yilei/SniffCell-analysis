@@ -1,5 +1,7 @@
-metric	manuscript_reported_count	current_source_count	status	note
-fans_tr_validated	44	47	discrepancy	current validation table
-fans_tr_total	65	73	discrepancy	current validation table
-brain_neuron_all_classes	NA	56	different definition	Figure 13-matched source combines TR and SV
-brain_oligodendrocyte_all_classes	NA	53	different definition	Figure 13-matched source combines TR and SV
+tissue	counting_unit	observed	eligible	note
+all	donor_locus_rows	47	73	Manual FANS annotations; unique loci use any observed donor
+all	unique_loci	44	65	Manual FANS annotations; unique loci use any observed donor
+brain	donor_locus_rows	42	63	Manual FANS annotations; unique loci use any observed donor
+brain	unique_loci	40	58	Manual FANS annotations; unique loci use any observed donor
+pbmc	donor_locus_rows	5	10	Manual FANS annotations; unique loci use any observed donor
+pbmc	unique_loci	5	9	Manual FANS annotations; unique loci use any observed donor

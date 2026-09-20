@@ -1,0 +1,19 @@
+{
+  "cell_type_aliases": {"Mono": "Monocyte", "NK": "NK-cell"},
+  "samples": {
+    "b1": {
+      "tissue": "brain",
+      "bams": {
+        "Neuron": "b1/FANS.neuron.bam",
+        "Oligodendrocyte": "b1/FANS.oligodendrocyte.bam"
+      }
+    },
+    "pbmc1": {
+      "tissue": "pbmc",
+      "bams": {
+        "T-cell": "pbmc1/FANS.tcells.bam", "B-cell": "pbmc1/FANS.bcells.bam",
+        "NK-cell": "pbmc1/FANS.nkcells.bam", "Monocyte": "pbmc1/FANS.monocytes.bam"
+      }
+    }
+  }
+}

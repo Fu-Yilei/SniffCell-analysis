@@ -1,0 +1,11 @@
+tissue	sample	variant_class	status	count
+brain	b1	SV	proxy_not_concordant	3
+brain	b1	TR	proxy_concordant	1
+brain	b1	TR	proxy_not_concordant	9
+brain	b2	SV	proxy_not_concordant	2
+brain	b2	TR	proxy_concordant	6
+brain	b2	TR	proxy_not_concordant	5
+pbmc	pbmc1	SV	unmapped_cell_type	1
+pbmc	pbmc1	TR	proxy_concordant	1
+pbmc	pbmc1	TR	proxy_not_concordant	3
+pbmc	pbmc2	SV	requires_structural_review	1
