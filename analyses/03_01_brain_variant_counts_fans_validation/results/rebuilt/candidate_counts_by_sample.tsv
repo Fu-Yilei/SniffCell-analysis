@@ -1,0 +1,25 @@
+tissue	sample	coverage	variant_class	cell_type	count
+pbmc	pbmc1	full	TR	Lymphocyte group	5
+pbmc	pbmc1	full	TR	Monocyte	1
+pbmc	pbmc1	full	SV	Lymphocyte group	1
+pbmc	pbmc1	full	SV	Monocyte	0
+pbmc	pbmc2	full	TR	Lymphocyte group	3
+pbmc	pbmc2	full	TR	Monocyte	1
+pbmc	pbmc2	full	SV	Lymphocyte group	2
+pbmc	pbmc2	full	SV	Monocyte	0
+brain	b1	full	TR	Neuron	11
+brain	b1	full	TR	Oligodendrocyte	14
+brain	b1	full	SV	Neuron	1
+brain	b1	full	SV	Oligodendrocyte	1
+brain	b2	full	TR	Neuron	10
+brain	b2	full	TR	Oligodendrocyte	15
+brain	b2	full	SV	Neuron	1
+brain	b2	full	SV	Oligodendrocyte	0
+brain	b3	full	TR	Neuron	13
+brain	b3	full	TR	Oligodendrocyte	16
+brain	b3	full	SV	Neuron	1
+brain	b3	full	SV	Oligodendrocyte	0
+brain	b4	full	TR	Neuron	19
+brain	b4	full	TR	Oligodendrocyte	7
+brain	b4	full	SV	Neuron	0
+brain	b4	full	SV	Oligodendrocyte	0

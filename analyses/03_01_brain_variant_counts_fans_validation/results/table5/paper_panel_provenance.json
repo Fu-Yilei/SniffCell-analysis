@@ -1,0 +1,12 @@
+{
+  "source": "Supplementary Table 5 SniffCell",
+  "sheet_gid": 1888934510,
+  "source_url": "https://docs.google.com/spreadsheets/d/1o31UEyJkIofEj7v_beWsKueVgT5R-KwZPNxyhfV1ubw/edit#gid=1888934510",
+  "input_sha256": "d9bc814e093fcc853cfff14c1bbf10ba444552ea5d0613ff9bd452eddc6c4cc2",
+  "record_sha256": "5eefc604313077adf3be7d4685d019d09fa1c3431f9534203755181e4ea1a0c8",
+  "candidate_rows": 123,
+  "figure_2e": "Listed candidate membership at each coverage; not independent discovery totals",
+  "figure_2f": "Candidate/donor rows; Yes and No are manual matched-FANS outcomes",
+  "figure_2g": "All listed TR and SV candidate rows by tissue/cell type",
+  "brain_validation": "Unique genomic intervals across donors; observed if any donor is Yes"
+}

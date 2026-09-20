@@ -15,14 +15,11 @@ Public repository rules:
 
 Generated figures use a Nature-style layout: figure-level titles and bottom
 caption/footnote text are omitted, while panel labels, facet headings, legends,
-axes, and data annotations are retained. Run
-`python scripts/audit_figure_style.py` to enforce this rule. Immutable
+axes, and data annotations are retained. Immutable
 `*_source` assets are retained only for provenance and checksum verification.
 
 Exact retained source-figure assets can be checked with
 `sha256sum -c SOURCE_FIGURE_SHA256SUMS`.
-
-Analyses are added one paper section at a time after review.
 
 ## Included analyses
 
@@ -55,10 +52,10 @@ Analyses are added one paper section at a time after review.
   Supplementary Figure 14 IGV asset and its provenance discrepancy.
 - `analyses/02_04_calcoco2_t_cell_expansion/`: Figure 3c CALCOCO2 per-read
   repeat-length analysis in SniffCell and sorted PBMC fractions.
-- `analyses/03_01_brain_variant_counts_fans_validation/`: brain candidate
-  counts, paired-FANS validation totals, and manuscript reconciliation.
-- `analyses/03_02_brain_tr_motif_composition/`: aggregate brain/PBMC TR motif
-  length and sequence-composition figure.
+- `analyses/03_01_brain_variant_counts_fans_validation/`: per-locus Supplementary
+  Table 5 to Figure 2e-g counts, FANS validation, and cell-type composition.
+- `analyses/03_02_brain_tr_motif_composition/`: per-locus catalog matching and
+  GAA enrichment tests in FANS-validated brain TRs.
 - `analyses/03_03_ont_low_quality_snv_artifact/`: checksum-verified
   Supplementary Figure 12 FBXL7 low-base-quality IGV asset.
 - `analyses/03_04_sgip1_neuron_expansion/`: Supplementary Figure 15 SGIP1

@@ -1,0 +1,13 @@
+{
+  "candidate_sha256": "d9bc814e093fcc853cfff14c1bbf10ba444552ea5d0613ff9bd452eddc6c4cc2",
+  "record_sha256": "5eefc604313077adf3be7d4685d019d09fa1c3431f9534203755181e4ea1a0c8",
+  "catalog_sha256": null,
+  "input_rows": 123,
+  "eligible_donor_rows": 92,
+  "selection": "Brain TR; manual paired FANS Yes; same definition for both cell types",
+  "motif_match": "Motif and genomic interval provided in Supplementary Table 5",
+  "gaa_definition": "Any-length motif containing cyclic GAA on either strand",
+  "primary_unit": "unique_table_locus within each cell type",
+  "test": "Two-sided Fisher exact; donor-row and one-sided results are sensitivity outputs",
+  "analysis_output": "GAA-element enrichment test statistics and per-locus motif annotations"
+}

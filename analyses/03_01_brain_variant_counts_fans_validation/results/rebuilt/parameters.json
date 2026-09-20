@@ -1,0 +1,9 @@
+{
+  "sv_site_coverage": 15,
+  "pbmc_tr_support": 5,
+  "pbmc_tr_change_reads": 5,
+  "pbmc_tr_baseline_reads": 10,
+  "brain_full": "recorded v2 adjudication",
+  "brain_subsets": "exact full-depth locus and cell-type recovery",
+  "sv_matching": "ID or same chromosome/type, distance <= max(1000, 0.5*max_length), length difference <= 50%"
+}

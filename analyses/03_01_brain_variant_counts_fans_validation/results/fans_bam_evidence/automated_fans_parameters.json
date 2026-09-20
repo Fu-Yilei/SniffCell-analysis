@@ -1,0 +1,8 @@
+{
+  "pad_bp": 150,
+  "minimum_reads_per_group": 5,
+  "minimum_tr_delta_bp": 5,
+  "sv_changed_vaf_min": 0.15,
+  "sv_contrast_vaf_max": 0.05,
+  "interpretation": "CIGAR proxy only; not manual validation or sequence-resolved genotyping"
+}

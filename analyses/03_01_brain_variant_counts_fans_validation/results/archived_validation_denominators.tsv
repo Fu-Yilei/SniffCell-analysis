@@ -1,0 +1,7 @@
+tissue	counting_unit	observed	eligible	note
+all	donor_locus_rows	47	73	Manual FANS annotations; unique loci use any observed donor
+all	unique_loci	44	65	Manual FANS annotations; unique loci use any observed donor
+brain	donor_locus_rows	42	63	Manual FANS annotations; unique loci use any observed donor
+brain	unique_loci	40	58	Manual FANS annotations; unique loci use any observed donor
+pbmc	donor_locus_rows	5	10	Manual FANS annotations; unique loci use any observed donor
+pbmc	unique_loci	5	9	Manual FANS annotations; unique loci use any observed donor

@@ -1,0 +1,73 @@
+{
+  "brain_sequence_metrics": "private_inputs/brain_full_call_support_sequence_metrics.tsv",
+  "brain_reproducibility_runs": [
+    {
+      "sample": "b1",
+      "coverage": "full",
+      "tr_changes": "private_inputs/b1/full/tr_changes.bed.tsv"
+    },
+    {
+      "sample": "b1",
+      "coverage": "60x",
+      "tr_changes": "private_inputs/b1/60x/tr_changes.bed.tsv"
+    },
+    {
+      "sample": "b1",
+      "coverage": "30x",
+      "tr_changes": "private_inputs/b1/30x/tr_changes.bed.tsv"
+    },
+    {
+      "sample": "b2",
+      "coverage": "full",
+      "tr_changes": "private_inputs/b2/full/tr_changes.bed.tsv"
+    },
+    {
+      "sample": "b2",
+      "coverage": "60x",
+      "tr_changes": "private_inputs/b2/60x/tr_changes.bed.tsv"
+    },
+    {
+      "sample": "b2",
+      "coverage": "30x",
+      "tr_changes": "private_inputs/b2/30x/tr_changes.bed.tsv"
+    },
+    {
+      "sample": "b3",
+      "coverage": "full",
+      "tr_changes": "private_inputs/b3/full/tr_changes.bed.tsv"
+    },
+    {
+      "sample": "b3",
+      "coverage": "60x",
+      "tr_changes": "private_inputs/b3/60x/tr_changes.bed.tsv"
+    },
+    {
+      "sample": "b3",
+      "coverage": "30x",
+      "tr_changes": "private_inputs/b3/30x/tr_changes.bed.tsv"
+    },
+    {
+      "sample": "b4",
+      "coverage": "full",
+      "tr_changes": "private_inputs/b4/full/tr_changes.bed.tsv"
+    },
+    {
+      "sample": "b4",
+      "coverage": "60x",
+      "tr_changes": "private_inputs/b4/60x/tr_changes.bed.tsv"
+    },
+    {
+      "sample": "b4",
+      "coverage": "30x",
+      "tr_changes": "private_inputs/b4/30x/tr_changes.bed.tsv"
+    }
+  ],
+  "curated_rescues": [
+    {
+      "sample": "b2",
+      "cell_type": "Neuron",
+      "trid": "REPLACE_WITH_PRIVATE_LRRC7_CATALOG_ID",
+      "reason": "Historical curator-reviewed LRRC7 rescue"
+    }
+  ]
+}

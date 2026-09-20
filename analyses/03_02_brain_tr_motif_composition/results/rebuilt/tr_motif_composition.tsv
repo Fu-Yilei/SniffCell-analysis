@@ -1,0 +1,19 @@
+tissue	dimension	category	count	tissue_total	percent
+PBMC	Motif length (bp)	2	0	10	0.0
+PBMC	Motif length (bp)	3	2	10	20.0
+PBMC	Motif length (bp)	4	0	10	0.0
+PBMC	Motif length (bp)	5	0	10	0.0
+PBMC	Motif length (bp)	6–10	0	10	0.0
+PBMC	Motif length (bp)	>10	8	10	80.0
+PBMC	Sequence composition	AT-rich	2	10	20.0
+PBMC	Sequence composition	Mixed	7	10	70.0
+PBMC	Sequence composition	GC-rich	1	10	10.0
+Brain	Motif length (bp)	2	12	105	11.4
+Brain	Motif length (bp)	3	11	105	10.5
+Brain	Motif length (bp)	4	11	105	10.5
+Brain	Motif length (bp)	5	2	105	1.9
+Brain	Motif length (bp)	6–10	16	105	15.2
+Brain	Motif length (bp)	>10	53	105	50.5
+Brain	Sequence composition	AT-rich	25	105	23.8
+Brain	Sequence composition	Mixed	78	105	74.3
+Brain	Sequence composition	GC-rich	2	105	1.9

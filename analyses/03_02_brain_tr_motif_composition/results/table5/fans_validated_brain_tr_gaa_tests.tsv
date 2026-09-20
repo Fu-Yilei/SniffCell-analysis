@@ -1,0 +1,3 @@
+analysis_unit	neuron_gaa	neuron_non_gaa	oligodendrocyte_gaa	oligodendrocyte_non_gaa	neuron_gaa_percent	oligodendrocyte_gaa_percent	odds_ratio	fisher_exact_p_greater	fisher_exact_p_two_sided
+unique_table_locus	18	23	13	30	43.90243902439025	30.232558139534884	1.806020066889632	0.14193654960938248	0.2588006906267615
+donor_call	19	25	13	35	43.18181818181818	27.083333333333332	2.046153846153846	0.08060103020111906	0.12780376510001887
